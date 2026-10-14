@@ -10,3 +10,8 @@
 2026-10-14 19:37:27 - Error: Invalid threshold 'abc'.
 2026-10-14 19:37:28 - Checked disk usage on '/': 55% (Threshold: 100%)
 2026-10-14 19:37:28 - Status OK: Usage below threshold.
+2026-10-14 19:41:15 - Error: Invalid threshold '0'.
+2026-10-14 19:41:16 - Error: Invalid threshold '101'.
+2026-10-14 19:41:16 - Error: Invalid threshold 'abc'.
+2026-10-14 19:41:16 - Checked disk usage on '/': 57% (Threshold: 100%)
+2026-10-14 19:41:16 - Status OK: Usage below threshold.
