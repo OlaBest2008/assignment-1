@@ -1,0 +1,7 @@
+2026-10-14 18:36:58 - Error: Missing threshold argument.
+2026-10-14 19:10:44 - Error: Missing threshold argument.
+2026-10-14 19:29:07 - Error: Invalid threshold '0'.
+2026-10-14 19:29:07 - Error: Invalid threshold '101'.
+2026-10-14 19:29:07 - Error: Invalid threshold 'abc'.
+2026-10-14 19:29:08 - Checked disk usage on '/': 52% (Threshold: 100%)
+2026-10-14 19:29:08 - Status OK: Usage below threshold.
