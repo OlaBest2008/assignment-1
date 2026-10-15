@@ -21,3 +21,10 @@
 2026-10-14 19:41:22 - Error: Invalid port '0'.
 2026-10-14 19:41:22 - Error: Invalid port '65536'.
 2026-10-14 19:41:22 - Error: Invalid port 'abc'.
+2026-10-15 12:42:59 - Error: Host argument missing.
+2026-10-15 12:42:59 - Executing network-check.sh on host: localhost, port: None
+2026-10-15 12:43:00 - Ping to localhost succeeded.
+2026-10-15 12:43:00 - Network check completed successfully.
+2026-10-15 12:43:00 - Error: Invalid port '0'.
+2026-10-15 12:43:00 - Error: Invalid port '65536'.
+2026-10-15 12:43:00 - Error: Invalid port 'abc'.
